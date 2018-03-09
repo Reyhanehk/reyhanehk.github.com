@@ -1,0 +1,13 @@
+title:        Reyhaneh Kazerani
+email:        reyhane.kazerani@gmail.com
+markdown:     kramdown
+permalink:    pretty
+highlighter:  rouge
+paginate:     5
+excerpt_separator: <!-- more -->
+github_username:  reyhanehk
+disqus_shortname: 'reyhanehk-github-io'
+url: https://reyhanehk.github.io
+image_base: /public/img
+date_format: '%B %d, %Y'
+plugins: [jekyll-paginate]
